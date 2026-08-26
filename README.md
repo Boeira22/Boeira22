@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Apresentação<br>- Nome: Eduardo Boeira<br>- Idade: 19 anos<br>- Estudante de Ciência da Computação (3º semestre) na PUCRS<br><br>💻 Tecnologias e Linguagens<br>-Java (principal linguagem)<br>-Experiência com HTML, CSS, JavaScript<br>-Contato com SystemVerilog<br>-Banco de dados: SQL, Oracle<br><br>🚀 Interesses<br>-Desenvolvimento backend em Java<br>-Estruturas de dados e algoritmos<br>-Banco de dados e otimização de consultas<br>-Explorar novas linguagens e frameworks<br><br>📈 Objetivos<br>-Construir projetos práticos para aplicar os conceitos aprendidos<br>-Contribuir com projetos open source<br>-Aprender mais sobre arquitetura de software e boas práticas
+👋 Apresentação<br>- Nome: Eduardo Boeira<br>- Idade: 20 anos<br>- Estudante de Ciência da Computação (4º semestre) na PUCRS<br><br>💻 Tecnologias e Linguagens<br>-Java (principal linguagem)<br>-Experiência com HTML, CSS, JavaScript<br>-Contato com SystemVerilog<br>-Banco de dados: SQL, Oracle<br><br>🚀 Interesses<br>-Desenvolvimento backend em Java<br>-Estruturas de dados e algoritmos<br>-Banco de dados e otimização de consultas<br>-Explorar novas linguagens e frameworks<br><br>📈 Objetivos<br>-Construir projetos práticos para aplicar os conceitos aprendidos<br>-Contribuir com projetos open source<br>-Aprender mais sobre arquitetura de software e boas práticas
 
 
 ## 🌐 Socials:
