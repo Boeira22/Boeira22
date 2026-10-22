@@ -12,7 +12,7 @@ Busco um **estágio em desenvolvimento de software**, com foco em **backend e ba
 | [Filósofos Jantando](https://github.com/Boeira22/T1_FPPD_Grupo_D) | 4 estratégias de sincronização (sequencial, com deadlock, com "garçom" e com ordenação global de recursos), detecção automática de deadlock e benchmark comparativo | Go, goroutines, `sync.Mutex` |
 | [Confusão e Difusão de Imagens](https://github.com/Boeira22/Trabalho1_pbn) | Processamento de imagens com técnicas de confusão e difusão, em ambiente Linux | C/C++, Make/CMake |
 | [Padrões de Projeto](https://github.com/Boeira22/Tarefa2-Padr-es-de-Projeto) | Aplicação de Strategy, Singleton, Decorator, Observer e Composite em problemas práticos | Java |
-| [Codificador](https://github.com/Boeira22/EduardoBoeira-exercicio_codificador-turma320) | Exercício de codificação desenvolvido em dupla com Git e boas práticas | Java |
+| [Codificador](https://github.com/Boeira22/EduardoBoeira-exercicio_codificador-turma320) | Codificadores de texto (ROT13, Atbash e deslocamento) com interface comum e polimorfismo, feito em dupla com Git e pull requests | Java |
 
 Também trabalhei com **otimização de consultas no Oracle** (planos de execução, índices e estatísticas em uma base com mais de 120 mil registros) e com **controle de concorrência** em SQL.
 
